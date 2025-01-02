@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vCj4mxVRffQ=",
+  "dgSpecHash": "47ccAjK08to=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mleblanc\\source\\repos\\MyBlazorAppTest\\MyBlazorAppTest\\MyBlazorAppTest.csproj",
+  "projectFilePath": "/home/mike/Documents/myblazorapptest/MyBlazorAppTest/MyBlazorAppTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mleblanc\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
+    "/home/mike/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.11/microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }
