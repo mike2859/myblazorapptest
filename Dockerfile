@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+=======
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+>>>>>>> cef89657d4d8127cccfa9061ae562fa35f38a10f
 WORKDIR /app
 EXPOSE 80
 EXPOSE 443

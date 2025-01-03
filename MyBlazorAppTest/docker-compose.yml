@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ﻿services:
   myblazorapp:
     image: myblazorapptest:latest
+=======
+version: '3.4'
+
+services:
+  myblazorapp:
+    image: myblazorapp:latest
+>>>>>>> cef89657d4d8127cccfa9061ae562fa35f38a10f
     build:
       context: .
       dockerfile: Dockerfile

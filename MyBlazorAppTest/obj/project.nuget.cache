@@ -1,8 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "QZ0wLPAKNSk=",
   "success": true,
   "projectFilePath": "C:\\Users\\mleblanc\\source\\repos\\MyBlazorAppTest\\MyBlazorAppTest\\MyBlazorAppTest.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "47ccAjK08to=",
+  "success": true,
+  "projectFilePath": "/home/mike/Documents/myblazorapptest/MyBlazorAppTest/MyBlazorAppTest.csproj",
+  "expectedPackageFiles": [
+    "/home/mike/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.11/microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
+  ],
+>>>>>>> cef89657d4d8127cccfa9061ae562fa35f38a10f
   "logs": []
 }
