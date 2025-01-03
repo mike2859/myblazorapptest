@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCj4mxVRffQ=",
+  "dgSpecHash": "QZ0wLPAKNSk=",
   "success": true,
   "projectFilePath": "C:\\Users\\mleblanc\\source\\repos\\MyBlazorAppTest\\MyBlazorAppTest\\MyBlazorAppTest.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\mleblanc\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
